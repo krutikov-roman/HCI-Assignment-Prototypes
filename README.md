@@ -1,8 +1,8 @@
 # 📱 Sheridan Courses App (HCI Assignment 2)
 
-A figma prototype for a simple mobile app for interacting with Sheridan Courses.
+A Figma prototype for a simple mobile app for interacting with Sheridan Courses.
 
-It allows a user to log in and see their Course List. From there, within each course there is
+It allows a user to log in and see their Course List. From there, within each course there is:
 
 * The main page with Announcements and Course Content
 * Navigation back to the Course List
@@ -45,7 +45,7 @@ Once a user is finished, they can log out from the app from any page by clicking
 
 ## 🧩 Screenshots of the Figma Rigging
 
-<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Overview.PNG" height="700"/> <img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Overview2.PNG" height="700"/>
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Overview.PNG" height="650"/> <img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Overview2.PNG" height="650"/>
 
 ## 🎥 Link To Video Demo
 
@@ -55,6 +55,6 @@ Once a user is finished, they can log out from the app from any page by clicking
 
 1. A feature that lets students to take pictures and scan in their written work into a pdf within the course app, rather than having to use a separate app to take the picture and convert it to a pdf.
 2. A feature that automatically generates practice problems based on lecture notes/course content.
-3. A feature that lets students submit their completed practice problems, and if they got them right then they are put onto a list that other students can see. This gives a social insentive for students to do practice problems, and lets those who are struggling with problems know who they can ask for help.
-4. A functionality that live-captures what is written on a whiteboard and livestreams to the course app. This would be helpful for those who are not able to make it to an inperson class and helps those who many have poor eyesight who are inperson.
-5. A feature that pre-plans when assignments/projects will be due based on the course schedule/outline, so students can more easily estimate upcoming workloads before they are offically added as submitabble assignments.
+3. A feature that lets students submit their completed practice problems, and if they got them right then they are put onto a list that other students can see. This gives a social incentive for students to do practice problems, and lets those who are struggling with problems know who they can ask for help.
+4. A functionality that live-captures what is written on a whiteboard and livestreams to the course app. This would be helpful for those who are not able to make it to an in-person class and helps those who many have poor eyesight who are in-person.
+5. A feature that pre-plans when assignments/projects will be due based on the course schedule/outline, so students can more easily estimate upcoming workloads before they are officially added as submittable assignments.
