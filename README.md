@@ -16,15 +16,36 @@ Once a user is finished, they can log out from the app from any page by clicking
 ## 🧩 Link To Prototype
 
 [Click to see the original prototype](https://www.figma.com/proto/jNfI3gnRVX3iZTMztRpWzq/RomanKrutikov_Assignment1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+
 [Click to see the newest prototype](https://www.figma.com/proto/DiHIT4mj1AGUFEqO79Ac61/RomanKrutikov_Assignment2?node-id=103%3A601&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A601)
 
 ## 📷 Screenshots of Prototype
 
+### Login
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Login.PNG" width="300"/> 
 
+### Course List
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseList1.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseList2.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseList3.PNG" width="300"/>
+
+### Individual Course Screens
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/SingleCourse1.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/SingleCourse2.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/SingleCourse3.PNG" width="300"/>
+
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/SingleCourse4.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/SingleCourse5.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/SingleCourse6.PNG" width="300"/>
+
+### Assignment Screens
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseAssignment1.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseAssignment2.PNG" width="300"/>
+
+### Grade Screens
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGrades1.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGrades2.PNG" width="300"/>
+
+### Group Chat Screens
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGroupChat1.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGroupChat2.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGroupChat3.PNG" width="300"/>
+
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGroupChat4.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGroupChat5.PNG" width="300"/><img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/CourseGroupChat6.PNG" width="300"/>
 
 ## 🧩 Screenshots of the Figma Rigging
 
-
+<img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Overview.PNG" height="700"/> <img src="https://github.com/krutikov-roman/HCI-Assignment-2/blob/main/screenshots/Overview2.PNG" height="700"/>
 
 ## 🎥 Link To Video Demo
 
