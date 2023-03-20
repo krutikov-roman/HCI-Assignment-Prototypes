@@ -15,9 +15,11 @@ Once a user is finished, they can log out from the app from any page by clicking
 
 ## 🧩 Link To Prototype
 
-[Click to see the original prototype](https://www.figma.com/proto/jNfI3gnRVX3iZTMztRpWzq/RomanKrutikov_Assignment1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
+[Click to see the oldest (assignment 1) prototype](https://www.figma.com/proto/jNfI3gnRVX3iZTMztRpWzq/RomanKrutikov_Assignment1?node-id=1%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
-[Click to see the newest prototype](https://www.figma.com/proto/DiHIT4mj1AGUFEqO79Ac61/RomanKrutikov_Assignment2?node-id=103%3A601&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A601)
+[Click to see the older (assignment 2) prototype](https://www.figma.com/proto/DiHIT4mj1AGUFEqO79Ac61/RomanKrutikov_Assignment2?node-id=103%3A601&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A601)
+
+[Click to see the newest (assignment 3) prototype](https://www.figma.com/proto/KxCesFKcNtjq0G85wvAUQe/RomanKrutikov_Assignment3?node-id=103-601&scaling=scale-down&page-id=0%3A1&starting-point-node-id=103%3A601)
 
 ## 📷 Screenshots of Prototype
 
