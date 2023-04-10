@@ -1,4 +1,4 @@
-# 📱 Sheridan Courses App (HCI Assignment 2 + 3)
+# 📱 Sheridan Courses App (HCI Assignment 1 + 2 + 3)
 
 A Figma prototype for a simple mobile app for interacting with Sheridan Courses.
 
